@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DJCHRIS679
-- 👀 I’m interested in Data Engineering / Machine learning Engineering.
+- 👀 I’m interested in Data Engineering / Machine learning / Data Analytics
 - 🌱 I’m currently learning the basics of Machine learning.
 - 💞️ I’m looking to collaborate on /shrug? 
 - 📫 How to reach me 
